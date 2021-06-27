@@ -1,4 +1,6 @@
 .idea/
 .deloy/
 concurrent-practise.iml
+.target/
+target
 
